@@ -1,3 +1,10 @@
+<img width="772" height="678" alt="Screenshot 2026-08-26 181747" src="https://github.com/user-attachments/assets/447243a9-bdfd-4943-8774-92c365aa089f" />
+<img width="565" height="621" alt="Screenshot 2026-08-26 181821" src="https://github.com/user-attachments/assets/51e3c7be-40c5-4464-9056-ffd1e3aea2bf" />
+<img width="519" height="649" alt="Screenshot 2026-08-26 181842" src="https://github.com/user-attachments/assets/e794c685-5da1-4ba1-8ea4-be126c594e66" />
+<img width="1032" height="558" alt="Screenshot 2026-08-26 181911" src="https://github.com/user-attachments/assets/fae18a9a-12af-4fc2-91a0-61a9cf88420d" />
+
+
+
 PS D:\merge> mkdir git-merge-demo
 
 
